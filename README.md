@@ -42,3 +42,9 @@ Seguir creciendo como desarrollador, aprender nuevas tecnologías y construir pr
 - GitHub: [Sergio Morales](https://github.com/tu-usuario)
 
 ⭐ ¡Gracias por visitar mi perfil!
+
+
+---
+
+<img src="https://static.wikia.nocookie.net/mortalkombat/images/0/01/ReptileMKXRenderTorneo.jpg/revision/latest?cb=20160222201742&path-prefix=es" alt="Imagen final" width="400">
+
