@@ -1,16 +1,44 @@
-## Sergio Alejandro Morales Villalobos👋
+# 👋 Hola, soy Sergio Morales
 
-<!--
-**sergiovillalobosalejandro-bit/sergiovillalobosalejandro-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación apasionado por la programación y la tecnología.  
+Me gusta aprender constantemente, crear proyectos prácticos y mejorar mis habilidades tanto en el frontend como en el backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Lenguajes y tecnologías
+
+- 🐍 **Python**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
+- 💻 **C++**
+
+---
+
+## 🛠️ ¿Qué hago?
+
+- Desarrollo proyectos pequeños y medianos para practicar lógica y buenas prácticas.
+- Aprendo programación tanto de forma académica como autodidacta.
+- Me interesa mejorar mi pensamiento lógico y resolver problemas reales con código.
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Mejores prácticas en **JavaScript**
+- Programación estructurada y lógica avanzada en **C++**
+- Desarrollo web y proyectos interactivos
+
+---
+
+## 📈 Objetivo
+
+Seguir creciendo como desarrollador, aprender nuevas tecnologías y construir proyectos cada vez más completos y útiles.
+
+---
+
+## 📫 Contacto
+
+- GitHub: [Sergio Morales](https://github.com/tu-usuario)
+
+⭐ ¡Gracias por visitar mi perfil!
