@@ -1,44 +1,96 @@
-# 👋 Hola, soy Sergio Morales
+# 👋 Hi, I'm Sergio Morales
 
-💻 Desarrollador en formación apasionado por la programación y la tecnología.  
-Me gusta aprender constantemente, crear proyectos prácticos y mejorar mis habilidades tanto en el frontend como en el backend.
+## 🚀 Full Stack Developer | AI Automation Specialist
 
----
+I'm a Full Stack Developer specialized in process automation powered by Artificial Intelligence. I enjoy building solutions that streamline workflows, integrate AI models, and create real business value.
 
-## 🚀 Lenguajes y tecnologías
-
-- 🐍 **Python**
-- 🌐 **HTML**
-- 🎨 **CSS**
-- ⚡ **JavaScript**
-- 💻 **C++**
+My work focuses on developing web applications, intelligent assistants, automated workflows, and AI-driven systems that help teams become more efficient and productive.
 
 ---
 
-## 🛠️ ¿Qué hago?
+## 💡 Expertise
 
-- Desarrollo proyectos pequeños y medianos para practicar lógica y buenas prácticas.
-- Aprendo programación tanto de forma académica como autodidacta.
-- Me interesa mejorar mi pensamiento lógico y resolver problemas reales con código.
-
----
-
-## 📚 Actualmente aprendiendo
-
-- Mejores prácticas en **JavaScript**
-- Programación estructurada y lógica avanzada en **C++**
-- Desarrollo web y proyectos interactivos
+* 🤖 AI-Powered Process Automation
+* 🔄 Workflow Orchestration with n8n
+* 🧠 LLM Integration (OpenAI, Anthropic, Gemini, and more)
+* 📚 Retrieval-Augmented Generation (RAG) Systems
+* 🎯 Model Fine-Tuning & Optimization
+* 🌐 Full Stack Web Development
+* ☁️ Containerization & Deployment with Docker
+* ⚡ API Integrations & Webhooks
 
 ---
 
-## 📈 Objetivo
+## 🛠️ Tech Stack
 
-Seguir creciendo como desarrollador, aprender nuevas tecnologías y construir proyectos cada vez más completos y útiles.
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+### Backend
+
+* Node.js
+* Python
+* Express.js
+* FastApi
+* C++
+
+### AI & Automation
+
+* n8n
+* OpenAI API
+* Claude API
+* Gemini API
+* LangChain
+* RAG Pipelines
+* Fine-Tuning
+* Prompt Engineering
+
+### DevOps & Tools
+
+* Docker
+* Git
+* GitHub
+* Linux
 
 ---
 
-## 📫 Contacto
+## 🚀 Featured Projects
 
-- GitHub: [Sergio Morales](https://github.com/tu-usuario)
+### Apex Vision
 
-⭐ ¡Gracias por visitar mi perfil!
+An AI-powered platform that analyzes sales pitches, provides personalized feedback, generates performance scores, and offers guidance through intelligent assistants.
+
+### DataCore
+
+A data processing and automation platform designed to optimize business workflows and improve operational efficiency.
+
+### SoundBot
+
+An automation and integration system focused on creating interactive experiences through AI and web services.
+
+---
+
+## 🌱 Currently Working On
+
+* Building AI-powered business automation solutions.
+* Exploring multi-agent architectures.
+* Improving RAG systems and information retrieval techniques.
+* Learning advanced deployment and scalability strategies.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/your-username
+* LinkedIn: https://www.linkedin.com/in/sérgio-alejandro-morales-villalobos-547365338/
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy transforming repetitive processes into intelligent automated systems, allowing people to focus on what truly matters: innovation and creativity.
+
