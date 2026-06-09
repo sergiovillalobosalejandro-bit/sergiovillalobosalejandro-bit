@@ -12,7 +12,7 @@ Hi, I'm Sergio Morales
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<img align="left" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="260" height="260" />
+<img align="left" src="https://i.makeagif.com/media/5-11-2015/XDVQ1a.gif" width="260" height="260" />
 
 ```bash
 $ whoami
