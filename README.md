@@ -103,7 +103,11 @@ AI-powered automation system designed to create interactive experiences through 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sergiovillalobosalejandro-bit&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiovillalobosalejandro-bit&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovillalobosalejandro-bit&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
