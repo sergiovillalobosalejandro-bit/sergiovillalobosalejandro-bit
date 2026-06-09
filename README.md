@@ -10,7 +10,7 @@ Hi, I'm Sergio Morales
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Full+Stack+Developer;AI+Automation+Specialist;n8n+Workflow+Expert;LLM+%26+RAG+Builder;Docker+Enthusiast;Building+Intelligent+Systems" />
 </p>
 
-<img src="https://i.makeagif.com/media/5-11-2015/XDVQ1a.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <img align="left" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="260" height="260" />
 
