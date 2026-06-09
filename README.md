@@ -60,7 +60,7 @@ philosophy:
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### Backend
