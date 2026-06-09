@@ -28,7 +28,7 @@ My work focuses on developing web applications, intelligent assistants, automate
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### Backend
