@@ -1,3 +1,6 @@
+<img width="1856" height="576" alt="Gemini_Generated_Image_ulszxjulszxjulsz" src="https://github.com/user-attachments/assets/5b47f013-2cd1-4123-a75b-ce99ab2bc0f8" />
+
+
 # 👋 Hi, I'm Sergio Morales
 
 ## 🚀 Full Stack Developer | AI Automation Specialist
