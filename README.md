@@ -27,37 +27,34 @@ My work focuses on developing web applications, intelligent assistants, automate
 ## 🛠️ Tech Stack
 
 ### Frontend
-
-* HTML
-* CSS
-* JavaScript
-* React
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+</p>
 
 ### Backend
-
-* Node.js
-* Python
-* Express.js
-* FastApi
-* C++
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,cpp" />
+</p>
 
 ### AI & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
 
-* n8n
-* OpenAI API
-* Claude API
-* Gemini API
-* LangChain
-* RAG Pipelines
-* Fine-Tuning
-* Prompt Engineering
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-FF9800?style=for-the-badge" />
+</p>
 
 ### DevOps & Tools
-
-* Docker
-* Git
-* GitHub
-* Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
 
 ---
 
